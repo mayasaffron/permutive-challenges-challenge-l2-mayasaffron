@@ -1,0 +1,20 @@
+body {
+  width: 50%;
+  margin: auto;
+  background-color: #ccc;
+  color: #888888;
+}
+.articles {
+  display: flex;
+  column-gap: 10px;
+}
+
+.articles #article {
+  border: 1px solid grey;
+  width: 40%;
+}
+
+h5,
+a {
+  color: black;
+}

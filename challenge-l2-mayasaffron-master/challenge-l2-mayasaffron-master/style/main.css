@@ -3,7 +3,12 @@ body {
   margin: 0;
   background-color: #ACC8E5;
   color: #112A46;
+  padding: 1em;
 }
+p, h1, h2, h5{
+  padding: 1em;
+}
+
 .articles {
   display: flex;
   column-gap: 1em;

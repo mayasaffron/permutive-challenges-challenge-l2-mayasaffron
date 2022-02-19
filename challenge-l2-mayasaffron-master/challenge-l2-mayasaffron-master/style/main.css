@@ -6,7 +6,7 @@ body {
 }
 .articles {
   display: flex;
-  column-gap: 10em;
+  column-gap: 1em;
 }
 
 .articles #article {
